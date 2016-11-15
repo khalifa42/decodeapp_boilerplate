@@ -1,5 +1,5 @@
 #DECODE APP BOILER-PLATE
-Decode App Boiler-Plate/Starter File/NodeHerokuSetup
+Decode App Boilerplate for NodeHeroku Dev Setup
 
 Tools
 
@@ -21,25 +21,53 @@ Checklist
  
  ✔ should have Portable Git Bash
 
-Tasks
+Tasks - Setup
 
-  ☐ $ node -v
+  ☐ ```$ node -v```
   
-  ☐ $ git --version
+  ☐ ```$ git --version```
 
-  ☐ $ cd /d
+  ☐ ```$ cd /d```
   
-  ☐ $ git clone https://github.com/clydeinwebdev/decodeapp_boilerplate.git myapp
+  ☐ ```$ git clone https://github.com/clydeinwebdev/decodeapp_boilerplate.git myapp```
 
-  ☐ $ cd myapp
+  ☐ ```$ cd myapp```
   
-  ☐ $ npm install
+  ☐ ```$ npm install```
   
-  ☐ $ node server
+  ☐ ```$ node server```
 
 
-Upload code from local to remote repo
+Tasks - Upload code from local to remote repo
 
+  ☐ Create new repo ```myapp```
+  
+  ☐ ```$ cd /d```
+  
+  ☐ ```$ mkdir github```
+  
+  ☐ ```$ cd github```
+  
+  ☐ ```$ git clone https/github.com/yourgithub-username/myapp.git```
+  
+  ☐ ```$ cd myapp```
+
+  ☐ Copy your files from myapp to github/myapp
+
+  ☐ ```$ git init```
+
+  ☐ ```$ git add .```
+  
+  ☐ ```$ git config user.email "youremail@example.com"```
+
+  ☐ ```$ git config user.name "yourgithubname"```
+
+  ☐ ```$ git commit -m "first commit"```
+
+  ☐ ```$ git remote add origin https://github.com/yourgithub-username/myapp.git```
+
+  ☐ ```$ git push -u origin master```
+  
 <hr/>
 
 Troubleshooting Guide
