@@ -1,7 +1,7 @@
 #decode APP boilerplate
 decode App Boilerplate for NodeHeroku Dev Setup
 
-Tools
+<strong>Tools</strong>
 
 1. Web Framework: [NodeJS](https://nodejs.org/en/download/)
 1. Text Editor: [Sublime](https://www.sublimetext.com/3)
@@ -9,7 +9,7 @@ Tools
 1. Remote Repository: [Github](https://github.com/)
 1. Cloud Platform: [Heroku](https://www.heroku.com/)
 
-Checklist
+<strong>Checklist</strong>
 
  ✔ should have node installed
  
@@ -21,7 +21,7 @@ Checklist
  
  ✔ should have Portable Git Bash
 
-Tasks - Setup
+<strong>Tasks - Setup</strong>
 
   ☐ ```$ node -v```
   
@@ -38,7 +38,7 @@ Tasks - Setup
   ☐ ```$ node server```
 
 
-Tasks - Upload code from local to remote repo
+<strong>Tasks - Upload code from local to remote repo</strong>
 
   ☐ Create new repo ```myapp```
   
@@ -70,9 +70,9 @@ Tasks - Upload code from local to remote repo
   
 <hr/>
 
-Troubleshooting Guide
+<strong>Troubleshooting Guide</strong>
 
-#SSH/HTTP odes
+#SSH/HTTP codes
 
 * ```$ cd ~/.ssh```
 * ```$ ssh-keygen -t rsa -b 4096 -C "your email address"```
