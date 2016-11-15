@@ -1,5 +1,5 @@
-#DECODE APP BOILER-PLATE
-Decode App Boilerplate for NodeHeroku Dev Setup
+#decode APP BOILERPLATE
+decode App Boilerplate for NodeHeroku Dev Setup
 
 Tools
 
