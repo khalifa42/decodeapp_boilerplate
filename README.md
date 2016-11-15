@@ -26,12 +26,19 @@ Tasks
   ☐ $ node -v
   
   ☐ $ git --version
+
+  ☐ $ cd /d
   
   ☐ $ git clone https://github.com/clydeinwebdev/decodeapp_boilerplate.git myapp
+
+  ☐ $ cd myapp
   
   ☐ $ npm install
   
   ☐ $ node server
+
+
+Upload code from local to remote repo
 
 <hr/>
 
